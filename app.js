@@ -22,3 +22,8 @@
     
     });
 })(document);
+
+
+function despedir(){
+    console.log('Adios')
+}
