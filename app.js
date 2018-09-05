@@ -23,7 +23,7 @@
     });
 })(document);
 
-
-function despedir(){
-    console.log('Adios')
-}
+function saludar()
+ {
+     console.log('hola')
+ }
