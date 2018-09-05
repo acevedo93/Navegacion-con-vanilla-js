@@ -27,3 +27,7 @@ function saludar()
  {
      console.log('hola')
  }
+
+ function contar(){
+     console.log('contaer')
+ }
