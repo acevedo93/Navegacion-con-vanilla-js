@@ -28,6 +28,7 @@ function saludar()
      console.log('hola')
  }
 
+<<<<<<< HEAD
  function contar(){
      console.log('contaer')
  }
@@ -35,3 +36,12 @@ function saludar()
  function rezar () {
      console.log('rezAR')
  }
+=======
+function despedir(){
+    console.log('Adios')
+}
+
+function contarHoras(){
+    console.log('viva la vida')
+}
+>>>>>>> intermedio
