@@ -31,3 +31,7 @@ function saludar()
  function contar(){
      console.log('contaer')
  }
+
+ function rezar () {
+     console.log('rezAR')
+ }
