@@ -27,3 +27,7 @@
 function despedir(){
     console.log('Adios')
 }
+
+function contarHoras(){
+    console.log('viva la vida')
+}
