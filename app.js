@@ -22,3 +22,8 @@
     
     });
 })(document);
+
+
+function saludar() {
+    console.log('hola')
+}
